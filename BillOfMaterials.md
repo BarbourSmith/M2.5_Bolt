@@ -2,4 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|M2.5x6mm Bolt|1|$0.00||
+|Total: |1|$0.00| |
